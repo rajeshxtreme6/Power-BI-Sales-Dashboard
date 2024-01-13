@@ -1,6 +1,6 @@
 # Sales Insights Data Analysis- Power BI Dashboard
 
-### Dashboard Link : 
+### Dashboard Link : https://www.novypro.com/project/sales-insights-data-analysis--power-bi-dashboard
 
 ## Problem Statement
 The challenge at hand revolves around the need for a structured and insightful approach to leverage sales data for predicting market profit, contribution, and identifying key improvement areas. The current state of affairs involves disparate datasets containing crucial information about transactions, customer behavior, products, and market dynamics. The absence of a consolidated and analytically-driven framework inhibits the organization's ability to make informed strategic decisions.
